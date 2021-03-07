@@ -3,7 +3,7 @@ def main():
     print("2. Minus (-)")
     print("3. Time (x)")
     print("4. Divide (/)")
-    choose = int(input("Your Choose  : "))
+    choose = int(input("Choose Operator  : "))
     x = float(input("First Number     : "))
     y = float(input("Second Number    : "))
     if choose == 1:
