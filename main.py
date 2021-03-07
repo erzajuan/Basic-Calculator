@@ -14,6 +14,8 @@ def main():
         print("Result : {}".format(x*y))
     if choose == 4:
         print("Result : {}".format(x/y))
+    else:
+        print("Invalid Operator")
 
 
 if __name__ == '__main__':
